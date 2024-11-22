@@ -46,6 +46,12 @@ A straightforward reminder application built using Python and Tkinter. This app 
 - Python 3.x
 - Tkinter (usually included with standard Python installations)
 
+
+## Screenshots
+
+<img width="1470" alt="Screenshot 2024-11-22 at 11 54 13 PM" src="https://github.com/user-attachments/assets/b6a9fa48-4e51-4964-a0ff-e57b57ca98b4">
+
+
 ## Contributing
 
 1. Fork the repository.
